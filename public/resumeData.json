@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Sushant Thapa",
+    "occupation": "ReactJS && Java Developer",
+    "description": "Professional by day, Learner by night",
+    "image": "IG_Sushant.jpeg",
+    "bio": "I am Sushant Thapa currently a student at Mt. Helen Campus, Federation University. I always had a knack for computers and I started persuing my career by enrolling for B.Sc. CSIT during my bachelors program. Soon after, I found myself working as a Junior Java Developer at PhoenixSolutions Pvt. Ltd., Kathmandu, Nepal which I continued for nearly 2 years. To further enhance my knowledge, I arrived Australia on 2019 and started my master's program on Software Engineering.",
+    "contactmessage": "Have any query? Have any job? Do you think I could be a good fit for your development team? I would love to hear from you whatever it is. Just leave few texts either through the email or by using the contact form below if you'd like to get in contact with me. Thank you!",
+    "email": "sus.hant@outlook.com",
+    "phone": "+61 449 899 228",
+    "address": {
+      "street": "235 Scott Parade",
+      "city": "Brown Hill",
+      "state": "Victoria",
+      "country": "Australia",
+      "postCode": "3350"
+    },
+    "website": "http://www.sushantthapa.com.np",
+    "resumedownload": "https://drive.google.com/file/d/1P4QsOsAyCWghfyRExdyn50pObQxlWdcX/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sushantTOfficial/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sushant-thapa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sus.h.ant/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sus47",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Mt. Helen Campus, Federation University",
+        "degree": "Masters of Technology (Software Engineering)",
+        "graduated": "Expected September 2021",
+        "description": "After completion of my bachelor program and working for nearly 2 years, I felt that I needed an upgrade. Consequently, I choose to persue my masters on Software Engineering from Australia and yes I am learning many new things as my study progresses."
+      },
+      {
+        "school": "Himalaya College of Engineering, Tribhuwan University",
+        "degree": "Bachelor of Science (Computer Science and Information Technology)",
+        "graduated": "November 2017",
+        "description": "Choosing a path to build a career is never easy. However, having interested over computers made me realise I had to go for a course that would give me a change to explore the computing world. Choosing B.Sc. CSIT during my bachelor program gave me an opportunity to dive into the programming world and my career as a Java Developer began during the final phase of the program."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Website Developer",
+        "years": "May 2020 - Present",
+        "description": "Developing website, designing logos"
+      },
+      {
+        "company": "Phoenix Solutions Pvt. Ltd.",
+        "title": "Java Developer",
+        "years": "August 2017 - June 2019",
+        "description": "Teaching ReactJS to thousands of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "1%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sushant is a good guy to give the job to. Developed an amazing website for the company.",
+        "user": "Hilltop Junar Multipurpose Cooperative Limited"
+      },
+      {
+        "text": "Accepted him to the internship when he was still student. A great guy who is responsible towards his work and also a good communicator. He was a trustworthy and dependable employee with leadership traits. Glad we hired him as a Java Developer for the company.",
+        "user": "Phoenix Solutions Pvt. Ltd."
+      }
+    ]
+  }
+}
